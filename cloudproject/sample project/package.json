@@ -6,6 +6,7 @@
   "scripts": {
     "build": "echo 'Building the project...' && node src/index.js",
     "test": "echo 'No tests defined' && exit 0"
+
   },
   "keywords": [],
   "author": "",
